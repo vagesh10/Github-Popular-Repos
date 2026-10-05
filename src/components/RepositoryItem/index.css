@@ -1,0 +1,37 @@
+.repository-item {
+  width: 280px;
+  min-height: 360px;
+  margin: 15px;
+  padding: 25px;
+  background-color: #f8f8ff;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.repository-image {
+  width: 120px;
+  height: 120px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.repository-name {
+  color: #e73959;
+  font-size: 20px;
+  margin: 10px 0 20px;
+}
+
+.repository-info {
+  display: flex;
+  align-items: center;
+  margin: 12px 0;
+  color: #475569;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.icon {
+  width: 25px;
+  height: 25px;
+  margin-right: 12px;
+}

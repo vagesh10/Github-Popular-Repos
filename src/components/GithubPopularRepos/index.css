@@ -1,0 +1,40 @@
+.github-popular-repos-container {
+  min-height: 100vh;
+  padding: 40px 20px;
+  background-color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.heading {
+  color: #0f172a;
+  font-family: 'Lobster', cursive;
+  font-size: 42px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.language-filters-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 40px;
+}
+
+.repositories-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+}
